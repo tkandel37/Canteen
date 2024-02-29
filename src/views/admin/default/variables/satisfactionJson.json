@@ -1,0 +1,33 @@
+[
+    {
+      "name": ["Anish Joshi", false],
+      "date": "12.Jan.2021",
+      "score": 75.5
+    },
+    {
+      "name": ["Eldy", true],
+      "date": "21.Feb.2021",
+      "score": 35.4
+    },
+    {
+      "name": ["Sudip Sharma", false],
+      "date": "12.Jan.2021",
+      "score": 75.5
+    },
+    {
+      "name": ["Saugat Adhikari", false],
+      "date": "21.Feb.2021",
+      "score": 35.4
+    },
+    {
+      "name": ["Saharsha Ojha", false],
+      "date": "13.Mar.2021",
+      "score": 25
+    },
+    {
+      "name": ["Hakuna Matata", false],
+      "date": "24.Jan.2021",
+      "score": 100
+    }
+  ]
+  
